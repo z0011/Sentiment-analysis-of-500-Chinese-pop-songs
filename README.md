@@ -27,7 +27,6 @@ __簡介__:
         >下載並安裝SnowNLP  
         >下載"cvaw3.csv"  
         >執行"analysis_and_GUI.py"  
-        >
          <br/>  
          
 __分工表__:  
