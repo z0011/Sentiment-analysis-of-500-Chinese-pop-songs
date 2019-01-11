@@ -17,7 +17,7 @@ SnowNLP <https://github.com/isnowfy/snownlp>
 __訓練資料來源__:  
 CVAW <http://nlp.innobic.yzu.edu.tw/resources/cvaw.html>  
 __簡介__:  
-    -所有ipynb檔需在snownlp-master路徑下執行
+    -所有ipynb檔需在snownlp-master路徑下執行  
     -含兩個demo檔分別展示 __a.__ 歌曲蒐集 __b.__ 歌曲情緒座標與播放介面建立，執行方式如下:  
     <br/>
     a.  __crawler.ipynb__  
