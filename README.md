@@ -25,7 +25,7 @@ __簡介__:
         >將生成20個txt檔  
         <br/>  
     b. __analysis_and_GUI.ipynb__   
-        >以pip安裝的套件需在的path下  
+        >以pip安裝的套件需在anaconda的path下  
         >執行"analysis_and_GUI.ipynb"  
          <br/>  
          
