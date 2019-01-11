@@ -17,20 +17,21 @@ SnowNLP <https://github.com/isnowfy/snownlp>
 __訓練資料來源__:  
 CVAW <http://nlp.innobic.yzu.edu.tw/resources/cvaw.html>  
 __簡介__:  
+    -所有ipynb檔需在snownlp-master路徑下執行
     -含兩個demo檔分別展示 __a.__ 歌曲蒐集 __b.__ 歌曲情緒座標與播放介面建立，執行方式如下:  
     <br/>
-    a.  __crawler.py__  
-        >直接執行"crawler.py"   
+    a.  __crawler.ipynb__  
+        >直接執行"crawler.ipynb"   
         >將生成20個txt檔  
         <br/>  
-    b. __analysis_and_GUI.py__   
+    b. __analysis_and_GUI.ipynb__   
         >下載並安裝SnowNLP  
         >以pip安裝的套件需在python的path下  
         >下載"cvaw3.csv"  
-        >執行"analysis_and_GUI.py"  
+        >執行"analysis_and_GUI.ipynb"  
          <br/>  
          
 __分工表__:  
-    1.b05207045 心理三 張倚郡: crawler.py、analysis_and_GUI.py撰寫(analysis)、github設置、ppt製作、demo主講  
-    2.b07901166 電機一 程騰緯: analysis_and_GUI.py撰寫(GUI)、影片製作
+    1.b05207045 心理三 張倚郡: crawler.ipynb、analysis_and_GUI.ipynb撰寫(analysis)、github設置、ppt製作、demo主講  
+    2.b07901166 電機一 程騰緯: analysis_and_GUI.ipynb撰寫(GUI)、影片製作
     
