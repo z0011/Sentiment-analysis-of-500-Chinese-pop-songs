@@ -10,10 +10,10 @@ Windows 10
 Anaconda python 3.7
 __套件__:   
 SnowNLP <https://github.com/isnowfy/snownlp>   
-pip  
-    >sip  
-    >pyQt5  
-    >pyQt5-tools  
+以pip安裝三個套件:  
+1. sip  
+2. pyQt5  
+3. pyQt5-tools  
 __訓練資料來源__:  
 CVAW <http://nlp.innobic.yzu.edu.tw/resources/cvaw.html>  
 __簡介__:  
@@ -26,7 +26,7 @@ __簡介__:
     b. __analysis_and_GUI.py__   
         >下載並安裝SnowNLP  
         >下載"cvaw3.csv"  
-        >執行"analysis.py"  
+        >執行"analysis_and_GUI.py"  
         >
          <br/>  
          
