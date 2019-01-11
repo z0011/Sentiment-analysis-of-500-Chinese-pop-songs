@@ -2,7 +2,7 @@
 NTU 107-1 EE Computer Programming final project  
 __Team 24__  
 __Team member__ :  
-b05207045 心裡三 張倚郡  
+b05207045 心理三 張倚郡  
 b07901166 電機一 程騰緯<br/> 
 ![image](https://github.com/z0011/Sentiment-analysis-of-500-Chinese-pop-songs/blob/master/emos.png)  
 __環境__:   
