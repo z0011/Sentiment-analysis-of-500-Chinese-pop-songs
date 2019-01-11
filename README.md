@@ -4,7 +4,7 @@ __Team 24__
 __Team member__ :  
 b05207045 心裡三 張倚郡  
 b07901166 電機一 程騰緯<br/> 
-![image](https://github.com/z0011/Sentiment-analysis-of-500-Chinese-pop-songs/blob/master/graph.PNG)  
+![image](https://github.com/z0011/Sentiment-analysis-of-500-Chinese-pop-songs/blob/master/.PNG)  
 __環境__:   
 Windows 10  
 Anaconda python 3.7  
