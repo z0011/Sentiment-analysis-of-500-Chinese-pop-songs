@@ -7,16 +7,16 @@ b07901166 電機一 程騰緯<br/>
 ![image](https://github.com/z0011/Sentiment-analysis-of-500-Chinese-pop-songs/blob/master/graph.PNG)  
 __環境__:   
 Windows 10  
-Anaconda python 3.7.0
+Anaconda python 3.7
 __套件__:   
-SnowNLP(https://github.com/isnowfy/snownlp)  
+SnowNLP <https://github.com/isnowfy/snownlp>  
 __訓練資料來源__:  
-CVAW (http://nlp.innobic.yzu.edu.tw/resources/cvaw.html)  
+CVAW <http://nlp.innobic.yzu.edu.tw/resources/cvaw.html>  
 __簡介__:  
-    -含三個demo檔分別展示 __a.__歌曲蒐集 __b.__歌曲情緒座標建立 __c.__播放介面建立，執行方式如下:  
+    -含三個demo檔分別展示 __a.__ 歌曲蒐集 __b.__ 歌曲情緒座標建立 __c.__ 播放介面建立，執行方式如下:  
     <br/>
     a.  __crawler.py__  
-        >直接執行"python3 demo_1.py"   
+        >直接執行"crawler.py"   
         >於"Enter XXX(non grashoff桿長參考/grashoff桿長參考)"處分別輸入四根桿長，畫出運動模型   
         >輸入桿長參考:    
         >Non Grashoff: input/coupler/output/frame = 100/200/200/350     
